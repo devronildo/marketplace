@@ -1,0 +1,23 @@
+.loja-infos span {
+  vertical-align: middle;
+  color: #626264;
+}
+.loja-infos span.mdi-star {
+    color: #facd5d;
+}
+
+.loja-infos text {
+    font-size: 13px;
+    margin-right: 10px;
+    vertical-align: middle;
+    color: #626264;
+}
+
+.loja-image{
+ border-radius: 5px;
+ margin-bottom: 20px;
+}
+
+.product button.btn-secondary {
+  padding: 1px 14px;
+}

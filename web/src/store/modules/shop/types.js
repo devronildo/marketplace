@@ -1,0 +1,14 @@
+const types = {
+    SET_CUSTOMER: '@shop/SET_CUSTOMER',
+    REQUEST_SHOPS: '@shop/REQUEST_SHOPS',
+    SET_SHOPS:'@shop/SET_SHOPS',
+    SET_SHOP_MAP_SELECTED: '@shop/SET_SHOP_MAP_SELECTED' ,
+    SET_MAP_CENTER: '@shop/SET_MAP_CENTER',
+    REQUEST_SHOP: '@shop/REQUEST_SHOP',
+    SET_SHOP:  '@shop/SET_SHOP',
+    TOGGLE_CART_PRODUCT: '@shop/TOGGLE_CART_PRODUCT',
+    SET_TRANSACTION: '@shop/SET_TRANSACTION',
+    MAKE_PURCHASE: '@shop/MAKE_PURCHASE'
+}
+
+export default types;
