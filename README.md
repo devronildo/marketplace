@@ -27,3 +27,5 @@ React Redux
 Redux Sagaz
 
 Integração com Paga.me
+
+![foto 1](https://user-images.githubusercontent.com/28160524/104109002-6193ed80-52a8-11eb-9373-740f3137eef9.png)
