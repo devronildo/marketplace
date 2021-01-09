@@ -24,7 +24,7 @@ React
 
 React Redux
 
-Redux Sagaz
+Redux Saga
 
 Integração com Paga.me
 
